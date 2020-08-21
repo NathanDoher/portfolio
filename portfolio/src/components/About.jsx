@@ -23,7 +23,7 @@ function About() {
             </p>
           </div>
           <div class="col-lg-5">
-            <img src={profile} class="profile" />
+            <img src={profile} class="profile" alt="profile" />
           </div>
         </div>
       </div>
