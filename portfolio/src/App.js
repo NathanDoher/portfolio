@@ -2,15 +2,14 @@ import React from 'react';
 import './index.css';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { Navigation, Footer, Home, About, Contact } from "./components";
+import profile from './components/profile.jpg'
 
 function App() {
   return (
     <div className="App">
       <div className="title">
+        <img src={profile} class="profile" alt="profile" />
         Nathan Doher        
-      </div>
-      <div className="portfolio">
-        
       </div>
       <Router>
         <Navigation />

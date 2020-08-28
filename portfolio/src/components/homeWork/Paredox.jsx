@@ -1,4 +1,5 @@
 import React from "react";
+import paredoxPicture from '../paredox.png';
 
 function Paredox() {
   return (
@@ -6,9 +7,10 @@ function Paredox() {
       <h2 class="font-weight-light">PaRedox</h2>
       <div class="outer">
         <p>
-          PaRedox is a project through University of Nebraska Lincoln. It was created under 
-          the leadership of Dr. Massimiliano Pierobon. PaRedox is a research project that connects 
-          bioelectrical simulations to an easy to use online interface that fulfills these tasks:
+          <a target="_blank" href='http://wetcode.unl.edu:8080/paredox/'>PaRedox </a>
+          is a research project through the University of Nebraska Lincoln that was created under 
+          the leadership of Dr. Massimiliano Pierobon. PaRedox connects bioelectrical simulations to an 
+          easy to use online interface that fulfills these tasks:
         </p>
         <div class="inner">
           <ul>
@@ -29,7 +31,7 @@ function Paredox() {
             </li>
           </ul>
         </div>
-        <h3 class="font-weight-light">Skills Aquired</h3>
+        <h4 class="font-weight-light">Skills Aquired</h4>
         <div class="inner">
           <ul>
             <li>Continuous Integration Testing</li>
@@ -43,7 +45,8 @@ function Paredox() {
             <li>Performance Testing</li>  
           </ul>
         </div>
-        </div>
+        <img src={paredoxPicture} class="paredoxPicture" alt="paredoxPicture" />
+      </div>
     </div>
   );
 }
