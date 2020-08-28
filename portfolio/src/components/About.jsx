@@ -1,5 +1,7 @@
 import React from "react";
 import profile from './profile.jpg'
+import DownloadLink from "react-download-link";
+import { BrowserRouter as Link } from "react-router-dom";
 
 function About() {
   return (
@@ -21,6 +23,7 @@ function About() {
               and implement new ideas.  I look forward to the opportunity to 
               apply this experience to the needs of your company.
             </p>
+            <a href='/files/Resume.pdf' download>Click to download Resume</a>
           </div>
           <div class="col-lg-5">
             <img src={profile} class="profile" alt="profile" />

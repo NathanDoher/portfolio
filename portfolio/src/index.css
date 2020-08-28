@@ -29,3 +29,23 @@ body {
     height: auto;
     vertical-align: top;
 }
+
+.jobs {
+    margin: 50px;
+}
+
+.outer {
+    margin: 0 auto;
+    /*
+    border-style: solid;
+    border-color: red;
+    */
+  }
+  
+.inner {
+margin-left: 20px;
+/*
+border-style: solid;
+border-color: orange;
+*/
+}
