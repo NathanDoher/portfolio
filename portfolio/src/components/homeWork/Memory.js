@@ -17,7 +17,7 @@ function Memory() {
             written in MATLAB. The object of the game is to match random title numbers on the 
             left side with their match on the right side. As a match is discovered the titles 
             will grey out and deactivate. When all titles are matched the game is over and 
-            statics are shown.
+            statistics are shown.
             <hr></hr>
             <div><img src={memory} class="picture" alt="Memory Game" /></div>
             Memory Game 
@@ -26,7 +26,7 @@ function Memory() {
             The game support different difficulties including setting your own size of board
             <hr></hr>
             <div><img src={memoryScore} class="picture" alt="Memory Game Score" /></div>
-            The statics after game is completed
+            The statistics after game is completed
             <hr></hr>
             <div><img src={memoryTwo} class="picture" alt="Memory Game Two Player" /></div>
             The game allows for two player mode, which has color corrdinated titles
