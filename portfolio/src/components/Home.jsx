@@ -1,5 +1,5 @@
 import React from "react";
-import { Paredox, Contact } from "./homeWork";
+import { Paredox, Overview, Memory } from "./homeWork";
 import { Tabs, TabList, Tab, TabPanels, TabPanel } from "@reach/tabs";
 import "@reach/tabs/styles.css";
 
@@ -11,21 +11,23 @@ function Home() {
           <div class="col-lg-12">
             <h1 class="font-weight-light">Home</h1>
             <Tabs orientation="vertical">
-              <TabList>
+              <div class="tabList">
+              <TabList >
+                <Tab>Overview</Tab>
                 <Tab>PaRedox</Tab>
-                <Tab>Two</Tab>
-                <Tab>Three</Tab>
+                <Tab>Memory Game</Tab>
               </TabList>
+              </div>
               <div class="jobs">
-                <TabPanels>
+                <TabPanels >
+                  <TabPanel>
+                    <Overview />
+                  </TabPanel>
                   <TabPanel>
                     <Paredox />
                   </TabPanel>
                   <TabPanel>
-                    <p>two!</p>
-                  </TabPanel>
-                  <TabPanel>
-                    <p>three!</p>
+                    <Memory />
                   </TabPanel>
                 </TabPanels>
               </div>

@@ -28,7 +28,7 @@ function Navigation(props) {
                 }`}
               >
                 <Link class="nav-link" to="/">
-                  Home
+                  <h3>Home</h3>
                   <span class="sr-only">(current)</span>
                 </Link>
               </li>
@@ -38,7 +38,7 @@ function Navigation(props) {
                 }`}
               >
                 <Link class="nav-link" to="/about">
-                  About
+                  <h3>About</h3>
                 </Link>
               </li>
               <li
@@ -47,7 +47,7 @@ function Navigation(props) {
                 }`}
               >
                 <Link class="nav-link" to="/contact">
-                  Contact
+                  <h3>Contact</h3>
                 </Link>
               </li>
             </ul>
