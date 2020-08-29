@@ -9,7 +9,7 @@ function Contact() {
           <div class="col-lg-12">
             <h1 class="font-weight-light">Contact</h1>
             <p>
-            <a target="_blank" href='ncdoher@gmail.com'>Contact Me </a>Contact Me
+              ncdoher at gmail dot com
             </p>
           </div>
         </div>
