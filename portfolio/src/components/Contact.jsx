@@ -9,8 +9,9 @@ function Contact() {
           <div class="col-lg-12">
             <h1 class="font-weight-light">Contact</h1>
             <p>
-              ncdoher at gmail dot com
+              ncdoher@gmail.com
             </p>
+            <p></p>
           </div>
         </div>
       </div>

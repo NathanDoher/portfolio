@@ -12,12 +12,15 @@ function About() {
               Engineering and a Minor in Mathematics.  My experience there has 
               challenged my critical and analytical thinking and has given me 
               the opportunity to work in team settings and take initiative as 
-              a leader in team projects.
+              a leader in team projects.  I Managed my school responsiblities 
+              and completed my degree while working and supporting a family.
             </p>
             <p>
               My work experience has included management positions which have 
               required me to analyze various processes, make recommendations 
-              and implement new ideas.
+              and implement new ideas. As Eric Lange stated, "through his 
+              (Nathan's) hard work and daily dedication he has contributed 
+              to our store's continuous sales and profit increases".
             </p>
             <p><a href='/files/Resume.pdf' download>Click to download Resume</a></p>
             <p><a href='/files/Recommend_Walmart.pdf' download>Letter of Recommendation Walmart</a></p>
