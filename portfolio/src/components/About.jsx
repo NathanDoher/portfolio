@@ -12,7 +12,7 @@ function About() {
               Engineering and a Minor in Mathematics.  My experience there has 
               challenged my critical and analytical thinking and has given me 
               the opportunity to work in team settings and take initiative as 
-              a leader in team projects.  I Managed my school responsiblities 
+              a leader in team projects.  I Managed my school responsibilities 
               and completed my degree while working and supporting a family.
             </p>
             <p>
