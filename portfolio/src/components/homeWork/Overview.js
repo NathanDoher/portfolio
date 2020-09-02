@@ -16,7 +16,7 @@ function Overview() {
             </p>
             <p>
             Wondering if I might be a good fit for your company? Click to see my <a href='/files/Resume.pdf' download>Resume</a> or my 
-            <a target="_blank" href='https://www.linkedin.com/in/nathan-doher/' download> LinkedIN profile</a>.
+            <a target="_blank" href='https://www.linkedin.com/in/nathan-doher/' download> LinkedIn profile</a>.
             </p>
             <p>
             See navigation on the left side for projects worked on: PaRedox, Memory Game.
