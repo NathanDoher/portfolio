@@ -18,7 +18,7 @@ function DrumProject() {
                     actuators, which power the drumstick movements. The drum set is 
                     comprised of a Snare, High Tom, Low Tom, Floor Tom, Kick, Cymbal, 
                     and Hi-Hat.</p>
-                <h4 class="font-weight-light">Skills Aquired</h4>
+                <h4 class="font-weight-light">Skills Utilized</h4>
                 <div class="inner">
                 <ul>
                     <li>C</li>

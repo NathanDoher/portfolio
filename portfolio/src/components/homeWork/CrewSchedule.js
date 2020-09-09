@@ -10,12 +10,12 @@ function CrewSchedule() {
       <div class="container">
         <div class="page">
           <div class="col-lg-12">
-            <h1 class="font-weight-light">Memory Game</h1>
+            <h1 class="font-weight-light">Crew Scheduler</h1>
             <p>
               <a target="_blank" href='https://git.unl.edu/rustinc/Group14-Airline-Scheduler'>Airline Crew Scheduler </a>
               was part of a team of four project at University of Nebraska Lincoln. We used java to create an user interface in order to communicate with a database to send and receive information to the crew schedule application.
             </p>
-            <h4 class="font-weight-light">Skills Aquired</h4>
+            <h4 class="font-weight-light">Skills Utilized</h4>
             <div class="inner">
               <ul>
                 <li>Java</li>

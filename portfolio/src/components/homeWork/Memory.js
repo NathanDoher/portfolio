@@ -14,13 +14,13 @@ function Memory() {
             <p>
             <a target="_blank" href='https://github.com/NathanDoher/Memory'>Memory Game </a>
 
-            was part of a team work assignment at the University of Nebraska Lincoln. This program was 
+            was part of a team work assignment which I led at the University of Nebraska Lincoln. This program was 
             written in MATLAB. The object of the game is to match random title numbers on the 
             left side with their match on the right side. As a match is discovered the titles 
             will grey out and deactivate. When all titles are matched the game is over and 
             statistics are shown.
             </p>
-            <h4 class="font-weight-light">Skills Aquired</h4>
+            <h4 class="font-weight-light">Skills Utilized</h4>
             <div class="inner">
               <ul>
                 <li>MATLAB</li>

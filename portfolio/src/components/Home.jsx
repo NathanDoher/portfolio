@@ -9,7 +9,7 @@ function Home() {
       <div class="container">
         <div class="page">
           <div class="col-lg-12">
-            <h1 class="font-weight-light">Home</h1>
+            <h1 class="font-weight-light">Projects</h1>
             <Tabs orientation="vertical">
               <div class="tabList">
               <TabList >

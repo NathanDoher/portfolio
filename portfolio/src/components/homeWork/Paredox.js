@@ -21,7 +21,7 @@ function Paredox() {
                 <li>Remove the need to run new physical trials for a set of parameters</li>
               </ul>
             </div>
-            <h4 class="font-weight-light">Skills Aquired</h4>
+            <h4 class="font-weight-light">Skills Utilized</h4>
             <div class="inner">
               <ul>
                 <li>Agile Coding Method</li>
