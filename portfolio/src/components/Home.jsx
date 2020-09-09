@@ -1,5 +1,5 @@
 import React from "react";
-import { Paredox, Overview, Memory } from "./homeWork";
+import { Paredox, Overview, Memory, DrumProject, CrewSchedule } from "./homeWork";
 import { Tabs, TabList, Tab, TabPanels, TabPanel } from "@reach/tabs";
 import "@reach/tabs/styles.css";
 
@@ -15,20 +15,18 @@ function Home() {
               <TabList >
                 <Tab>Overview</Tab>
                 <Tab>PaRedox</Tab>
+                <Tab>Crew Scheduler</Tab>
+                <Tab>Robot Drums</Tab>
                 <Tab>Memory Game</Tab>
               </TabList>
               </div>
               <div class="jobs">
                 <TabPanels >
-                  <TabPanel>
-                    <Overview />
-                  </TabPanel>
-                  <TabPanel>
-                    <Paredox />
-                  </TabPanel>
-                  <TabPanel>
-                    <Memory />
-                  </TabPanel>
+                  <TabPanel><Overview /></TabPanel>
+                  <TabPanel><Paredox /></TabPanel>
+                  <TabPanel><CrewSchedule /></TabPanel>
+                  <TabPanel><DrumProject /></TabPanel>
+                  <TabPanel><Memory /></TabPanel>
                 </TabPanels>
               </div>
             </Tabs>

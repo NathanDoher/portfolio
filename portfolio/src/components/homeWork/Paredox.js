@@ -24,6 +24,7 @@ function Paredox() {
             <h4 class="font-weight-light">Skills Aquired</h4>
             <div class="inner">
               <ul>
+                <li>Agile Coding Method</li>
                 <li>Continuous Integration Testing</li>
                 <li>CSS</li>
                 <li>HTML</li>
@@ -36,6 +37,7 @@ function Paredox() {
               </ul>
             </div>
             <img src={paredoxPicture} class="picture" alt="paredoxPicture" />
+            <br/><br/><br/>
           </div>
         </div>
       </div>

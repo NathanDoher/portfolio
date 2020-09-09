@@ -40,6 +40,7 @@ function Memory() {
             <br/><br/><br/>
             <div><img src={memoryTwo} class="picture" alt="Memory Game Two Player" /></div>
             The game allows for two player mode, which has color corrdinated titles
+            <br/><br/><br/>
           </div>
         </div>
       </div>

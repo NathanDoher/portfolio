@@ -39,14 +39,8 @@ html {
 }
 
 .picture {
-  width: 80%;
+  width: 100%;
   vertical-align: middle;
-  margin-right: 20px;
-}
-
-.jobs {
-    margin: 50px;
-
 }
 
 .inner {
@@ -54,9 +48,10 @@ html {
   }
 
 .tabList {
-  width: 150px;
-  padding: 10px;
+  width: 20%;
+  
   /*
+  padding: 10px;
   border-style: solid;
   border-color: orange;
 */

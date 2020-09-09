@@ -8,9 +8,9 @@ function Contact() {
 
           <div class="col-lg-12">
             <h1 class="font-weight-light">Contact</h1>
-            <p>
-              ncdoher@gmail.com
-            </p>
+            <p>ncdoher@gmail.com</p>
+            <p><a target="_blank" href='https://github.com/NathanDoher' download>GitHub</a></p>
+            <p><a target="_blank" href='https://www.linkedin.com/in/nathan-doher/' download>LinkedIn profile</a></p>
             <p></p>
           </div>
         </div>
