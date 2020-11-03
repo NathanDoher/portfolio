@@ -8,7 +8,7 @@ function Paredox() {
         <div class="page">
           <div class="col-lg-12">
             <h1 class="font-weight-light">PaRedox</h1>
-              <a target="_blank" href='http://wetcode.unl.edu:8080/paredox/'>PaRedox </a>
+              <a target="_blank" href='http://paredox.unl.edu/paredox/'>PaRedox </a>
               is a research project through the University of Nebraska Lincoln that was created under 
               the leadership of Dr. Massimiliano Pierobon. PaRedox connects bioelectrical simulations to an 
               easy to use online interface that fulfills these tasks:          
